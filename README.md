@@ -16,7 +16,9 @@ This repo mainly records my research pipeline in zero-shot segmentation. Other t
 #### 1.1.2 Gating methods
 1. Adaptive confidence smoothing for generalized zero-shot learning
 + From 2019 CVPR
++ Main contribution: incorporates a gating mechanism with two experts to handle the unseen and seen domains separately.
 2. Zero-shot learning through cross-modal transfer
 + From 2013 nips
++ Main contribution: incorporates a gating mechanism with two experts to handle the unseen and seen domains separately.
 ### 1.2 Zero-shot Object Detection
 ## 2. Zero-shot Segmentation
