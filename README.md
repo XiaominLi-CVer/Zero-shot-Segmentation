@@ -13,6 +13,9 @@ This repo mainly records my research pipeline in zero-shot segmentation. Other t
 3. Learning to detect unseen object classes by between-class attribute transfer
 + From 2009 CVPR
 + main contribution: propose attribute-based classification
+4. Attribute-based classification for zero-shot visual object categorization
++ From 2014 TPAMI
++ Main contribution: 
 #### 1.1.2 Gating methods
 1. Adaptive confidence smoothing for generalized zero-shot learning
 + From 2019 CVPR
