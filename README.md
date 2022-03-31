@@ -25,3 +25,12 @@ This repo mainly records my research pipeline in zero-shot segmentation. Other t
 + Main contribution: incorporates a gating mechanism with two experts to handle the unseen and seen domains separately.
 ### 1.2 Zero-shot Object Detection
 ## 2. Zero-shot Segmentation
+### 2.1 Zero-shot Semantic Segmentation 
+#### 2.1.1 Pixel-level Zero-shot Semantic Segmentation
+1. Semantic projection network for zero-and few-label semantic segmentation
++ From 2019 CVPR, Yongqin Xian
+2. Zero-shot semantic segmentation
++ From 2019 NeurIPS
+#### 2.1.2 Segment-level Zero-shot Semantic Segmentation
+
+
