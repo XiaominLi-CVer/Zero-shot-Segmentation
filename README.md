@@ -27,10 +27,11 @@ This repo mainly records my research pipeline in zero-shot segmentation. Other t
 ## 2. Zero-shot Segmentation
 ### 2.1 Zero-shot Semantic Segmentation 
 #### 2.1.1 Pixel-level Zero-shot Semantic Segmentation
-1. Semantic projection network for zero-and few-label semantic segmentation
-+ From 2019 CVPR, Yongqin Xian
-2. Zero-shot semantic segmentation
+1. Hang Zhao, Xavier Puig, Bolei Zhou, Sanja Fidler, and Antonio Torralba. Open vocabulary scene parsing. In ICCV, pages 2002–2010, 2017.
+2. Yongqin Xian, Subhabrata Choudhury, Yang He, Bernt Schiele, and Zeynep Akata. Semantic projection network for zero-and few-label semantic segmentation. In CVPR, pages 8256–8265, 2019.
+3. Zero-shot semantic segmentation
 + From 2019 NeurIPS
+4. Jingwei Ji, Shyamal Buch, Alvaro Soto, and Juan Carlos Niebles. End-to-end joint semantic segmentation of actors and actions in video. In ECCV, pages 702–717, 2018.
 #### 2.1.2 Segment-level Zero-shot Semantic Segmentation
 
 
